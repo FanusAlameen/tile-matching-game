@@ -1,7 +1,6 @@
-```markdown
 # Tile Matching Game
 
-A fun and interactive tile matching game built with React. Players flip tiles to match pairs of images, track their score, and time their performance. The game stops when all tiles are matched.
+A fun and interactive tile matching game built with React. Players flip tiles to match pairs of images, track their score, and time their performance. The game stops when all tiles are matched.  You can play it here -> [tile-matching-game](https://tile-matching-game-sigma.vercel.app/)
 
 ## Features
 
@@ -73,5 +72,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 - [React](https://reactjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
-
-```
